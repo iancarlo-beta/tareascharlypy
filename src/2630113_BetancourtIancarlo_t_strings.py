@@ -1,4 +1,4 @@
-# COVER PAGE
+
 # Name: iancarlo betancourt rodriguez
 # Student ID: 2630113
 # Group: IM 1-2
